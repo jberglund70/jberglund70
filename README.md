@@ -1,12 +1,17 @@
 ## About Me 👋
 
-**jberglund70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm J. Berglund 👋
+I'm a lifelong learner and maker at heart — someone who finds joy in building things, whether that's in code, wood, or the digital world. I bring that same curiosity and creativity to everything I do, from crafting web experiences to designing objects that come to life on a 3D printer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on updating my personal site with css and react.js
-- 🌱 I’m building on my skills with css, flex and html
-- 👯 A game developer friend has asked me to collaborate with him on a mobile app
-- 📫 How to reach me: jberglund1970@gmail.com
-<!-- - 😄 Pronouns: She/Her, They/Them -->
-- ⚡ Interesting fact: I've always loved learning, building and creating. My current hobbies include 3d printing; creating 3d-printable designs; wildlife photography; carpentry; and, many more. I also have grandsons who challenge me with designing and building cosplay costumes and helping them with any digital game/app software mods they want to try.
+🔭 Currently working on rebuilding my personal site using React.js and modern CSS
+
+🌱 Growing my skills in CSS, Flexbox, and HTML — always leveling up
+
+👯 Collaborating with a game developer friend on an exciting new mobile app
+
+🛠️ Outside of code, I'm into 3D printing & design, wildlife photography, carpentry, and helping my grandsons bring their cosplay and game mod ideas to life
+
+⚡ What drives me — I've always loved learning, building, and creating. If there's something new to figure out, I'm in.
+
+📫 Reach me at: jberglund1970@gmail.com
